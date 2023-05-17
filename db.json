@@ -1,0 +1,140 @@
+{
+  "list": {
+    "items": [
+      {
+        "name": "Brookhaven",
+        "star": "star 1",
+        "price": "225.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "1"
+      },
+      {
+        "name": "Yorba Linda",
+        "star": "star 2",
+        "price": "686.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "2"
+      },
+      {
+        "name": "Roanoke",
+        "star": "star 3",
+        "price": "104.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "3"
+      },
+      {
+        "name": "McKinney",
+        "star": "star 4",
+        "price": "189.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "4"
+      },
+      {
+        "name": "Pflugerville",
+        "star": "star 5",
+        "price": "642.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "5"
+      },
+      {
+        "name": "Westfield",
+        "star": "star 6",
+        "price": "597.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "6"
+      },
+      {
+        "name": "Jacksonville",
+        "star": "star 7",
+        "price": "639.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "7"
+      },
+      {
+        "name": "Montebello",
+        "star": "star 8",
+        "price": "174.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "8"
+      },
+      {
+        "name": "Bozeman",
+        "star": "star 9",
+        "price": "643.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "9"
+      },
+      {
+        "name": "Freeport",
+        "star": "star 10",
+        "price": "843.00",
+        "img": "https://loremflickr.com/640/480/animals",
+        "id": "10"
+      }
+    ]
+  },
+  "links": {
+    "items": [
+      {
+        "title": "Bespoke Bronze Soap",
+        "url": "https://unknown-fender.com",
+        "id": "1"
+      },
+      {
+        "title": "Oriental Wooden Table",
+        "url": "https://soggy-lawyer.name",
+        "id": "2"
+      },
+      {
+        "title": "Luxurious Fresh Chair",
+        "url": "https://finished-champion.info",
+        "id": "3"
+      },
+      {
+        "title": "Unbranded Wooden Salad",
+        "url": "http://tremendous-utilisation.name",
+        "id": "4"
+      },
+      {
+        "title": "Practical Concrete Computer",
+        "url": "https://real-durian.net",
+        "id": "5"
+      },
+      {
+        "title": "Small Rubber Tuna",
+        "url": "http://medical-begonia.org",
+        "id": "6"
+      },
+      {
+        "title": "Luxurious Concrete Car",
+        "url": "http://giant-reunion.name",
+        "id": "7"
+      },
+      {
+        "title": "Ergonomic Rubber Pants",
+        "url": "https://vast-botany.org",
+        "id": "8"
+      },
+      {
+        "title": "Handmade Cotton Pizza",
+        "url": "http://pink-fetus.biz",
+        "id": "9"
+      },
+      {
+        "title": "Handmade Wooden Hat",
+        "url": "https://hungry-antiquity.info",
+        "id": "10"
+      },
+      {
+        "title": "Electronic Bronze Bike",
+        "url": "http://huge-message.com",
+        "id": "11"
+      },
+      {
+        "title": "Unbranded Metal Towels",
+        "url": "https://ignorant-election.com",
+        "id": "12"
+      }
+    ]
+  }
+}
